@@ -1,0 +1,3 @@
+[submodule "Thesis"]
+	path = Thesis
+	url = git@github.com:ALICE-InRu/Thesis.git
