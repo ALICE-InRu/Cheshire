@@ -1,3 +1,7 @@
 [submodule "Thesis"]
 	path = Thesis
 	url = git@github.com:ALICE-InRu/Thesis.git
+[submodule "Data"]
+	path = Data
+	url = git@github.com:ALICE-InRu/Data.git
+
