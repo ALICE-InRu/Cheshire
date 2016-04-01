@@ -5,3 +5,6 @@
 	path = Data
 	url = git@github.com:ALICE-InRu/Data.git
 
+[submodule "Code"]
+	path = Code
+	url = git@github.com:ALICE-InRu/Code.git
